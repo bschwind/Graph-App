@@ -1,0 +1,13 @@
+*.user
+*.pdb
+*.exe
+*.cache
+*.FileListAbsolute.txt
+*.RuntimeProfile.txt
+*.xml
+*.cachefile
+*.xnb
+*-targetpath.txt
+*.dll
+MercsPrototype/MercsPrototype/bin/
+MercsPrototype/MercsPrototype/obj/
